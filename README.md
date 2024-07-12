@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Public email address: tim.a.holmes@gmail.com
 <!--
 **timothy-holmes/timothy-holmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
